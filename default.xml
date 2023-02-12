@@ -4,7 +4,7 @@
   <remote fetch="https://github.com/Freescale" name="freescale"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/embeddedTS" name="ts"/>
-  <remote fetch="https://github.com/meta-qt5/" name="qt5" />
+  <remote fetch="https://github.com/RogueWarrior65/meta-qt5" name="qt5" />
 
   <project remote="ts" revision="zeus" name="meta-ts" path="sources/meta-ts"/>
 
@@ -19,5 +19,5 @@
   <project remote="freescale" revision="zeus" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
   <project remote="freescale" revision="zeus" name="Documentation" path="sources/Documentation"/>
 
-  <project remote="qt5" revision="zeus" name="meta-qt5" path="sources/meta-qt5" />
+  <project remote="qt5" revision="master" name="meta-qt5" path="sources/meta-qt5" />
 </manifest>
