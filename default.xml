@@ -4,7 +4,7 @@
   <remote fetch="https://github.com/Freescale" name="freescale"/>
   <remote fetch="https://github.com/openembedded" name="oe"/>
   <remote fetch="https://github.com/RogueWarrior65" name="ts"/>
-  <remote fetch="https://github.com/RogueWarrior65/" name="qt5" />
+  <remote fetch="https://github.com/RogueWarrior65" name="qt5" />
 
   <project remote="ts" revision="zeus" name="meta-ts" path="sources/meta-ts"/>
 
