@@ -19,5 +19,5 @@
   <project remote="freescale" revision="zeus" name="meta-freescale-distro" path="sources/meta-freescale-distro"/>
   <project remote="freescale" revision="zeus" name="Documentation" path="sources/Documentation"/>
 
-  <project remote="qt5" revision="master" name="meta-qt5" path="sources/meta-qt5" />
+  <project remote="qt5" revision="zeus" name="meta-qt5" path="sources/meta-qt5" />
 </manifest>
